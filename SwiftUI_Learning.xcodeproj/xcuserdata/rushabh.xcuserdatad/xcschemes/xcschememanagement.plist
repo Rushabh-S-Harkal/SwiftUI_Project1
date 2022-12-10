@@ -11,8 +11,33 @@
 		</dict>
 		<key>SwiftUI_Learning (macOS).xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9BF55EA1292891A300837AFD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BF55EA7292891A300837AFD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BF55EAE292891A300837AFD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BF55EBA292891A300837AFD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
